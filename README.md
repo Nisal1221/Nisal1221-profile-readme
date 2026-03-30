@@ -129,5 +129,5 @@
 <br><br>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisal1221&show_icons=true&locale=en&layout=compact" alt="nisal1221" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisal1221&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&cache_buster=1" alt="nisal1221" />
 </p>
